@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "up5TwbYy7/mjJANtfyq+bID5z6XyS+6PmChBKWXto0Q=",
+  "Source": "ComputerWishlist.Server",
+  "BasePath": "_content/ComputerWishlist.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\hrice\\OneDrive\\Desktop\\ComputerWishlist 1\\ComputerWishlist\\computerwishlist.client\\computerwishlist.client.esproj",
+      "Version": 2,
+      "Source": "computerwishlist.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,51 @@
+C:\Users\hrice\source\repos\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.csproj.AssemblyReference.cache
+C:\Users\hrice\source\repos\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrice\source\repos\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.AssemblyInfoInputs.cache
+C:\Users\hrice\source\repos\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.AssemblyInfo.cs
+C:\Users\hrice\source\repos\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.csproj.CoreCompileInputs.cache
+C:\Users\hrice\source\repos\ComputerWishlist\CumputerWishlist.Data\bin\Debug\net8.0\CumputerWishlist.Data.deps.json
+C:\Users\hrice\source\repos\ComputerWishlist\CumputerWishlist.Data\bin\Debug\net8.0\CumputerWishlist.Data.dll
+C:\Users\hrice\source\repos\ComputerWishlist\CumputerWishlist.Data\bin\Debug\net8.0\CumputerWishlist.Data.pdb
+C:\Users\hrice\source\repos\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.dll
+C:\Users\hrice\source\repos\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\refint\CumputerWishlist.Data.dll
+C:\Users\hrice\source\repos\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.pdb
+C:\Users\hrice\source\repos\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\ref\CumputerWishlist.Data.dll
+C:\Users\hrice\source\repos\ComputerWishlist\CumputerWishlist.Data\bin\Debug\net8.0\CumputerWishlist.Data.runtimeconfig.json
+C:\Users\hrice\source\repos\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.genruntimeconfig.cache
+C:\Users\hrice\source\repos\ComputerWishlist\CumputerWishlist.Data\bin\Debug\net8.0\ComputerWishlist.BusinessObjects.dll
+C:\Users\hrice\source\repos\ComputerWishlist\CumputerWishlist.Data\bin\Debug\net8.0\ComputerWishlist.BusinessObjects.pdb
+C:\Users\hrice\source\repos\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.csproj.CopyComplete
+C:\Users\hristo.evtimov\Desktop\ComputerWishlist\CumputerWishlist.Data\bin\Debug\net8.0\CumputerWishlist.Data.deps.json
+C:\Users\hristo.evtimov\Desktop\ComputerWishlist\CumputerWishlist.Data\bin\Debug\net8.0\CumputerWishlist.Data.runtimeconfig.json
+C:\Users\hristo.evtimov\Desktop\ComputerWishlist\CumputerWishlist.Data\bin\Debug\net8.0\CumputerWishlist.Data.dll
+C:\Users\hristo.evtimov\Desktop\ComputerWishlist\CumputerWishlist.Data\bin\Debug\net8.0\CumputerWishlist.Data.pdb
+C:\Users\hristo.evtimov\Desktop\ComputerWishlist\CumputerWishlist.Data\bin\Debug\net8.0\ComputerWishlist.BusinessObjects.dll
+C:\Users\hristo.evtimov\Desktop\ComputerWishlist\CumputerWishlist.Data\bin\Debug\net8.0\ComputerWishlist.BusinessObjects.pdb
+C:\Users\hristo.evtimov\Desktop\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.csproj.AssemblyReference.cache
+C:\Users\hristo.evtimov\Desktop\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hristo.evtimov\Desktop\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.AssemblyInfoInputs.cache
+C:\Users\hristo.evtimov\Desktop\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.AssemblyInfo.cs
+C:\Users\hristo.evtimov\Desktop\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.csproj.CoreCompileInputs.cache
+C:\Users\hristo.evtimov\Desktop\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.csproj.CopyComplete
+C:\Users\hristo.evtimov\Desktop\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.dll
+C:\Users\hristo.evtimov\Desktop\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\refint\CumputerWishlist.Data.dll
+C:\Users\hristo.evtimov\Desktop\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.pdb
+C:\Users\hristo.evtimov\Desktop\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.genruntimeconfig.cache
+C:\Users\hristo.evtimov\Desktop\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\ref\CumputerWishlist.Data.dll
+C:\Users\hrice\OneDrive\Desktop\ComputerWishlist 1\ComputerWishlist\CumputerWishlist.Data\bin\Debug\net8.0\CumputerWishlist.Data.deps.json
+C:\Users\hrice\OneDrive\Desktop\ComputerWishlist 1\ComputerWishlist\CumputerWishlist.Data\bin\Debug\net8.0\CumputerWishlist.Data.runtimeconfig.json
+C:\Users\hrice\OneDrive\Desktop\ComputerWishlist 1\ComputerWishlist\CumputerWishlist.Data\bin\Debug\net8.0\CumputerWishlist.Data.dll
+C:\Users\hrice\OneDrive\Desktop\ComputerWishlist 1\ComputerWishlist\CumputerWishlist.Data\bin\Debug\net8.0\CumputerWishlist.Data.pdb
+C:\Users\hrice\OneDrive\Desktop\ComputerWishlist 1\ComputerWishlist\CumputerWishlist.Data\bin\Debug\net8.0\ComputerWishlist.BusinessObjects.dll
+C:\Users\hrice\OneDrive\Desktop\ComputerWishlist 1\ComputerWishlist\CumputerWishlist.Data\bin\Debug\net8.0\ComputerWishlist.BusinessObjects.pdb
+C:\Users\hrice\OneDrive\Desktop\ComputerWishlist 1\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.csproj.AssemblyReference.cache
+C:\Users\hrice\OneDrive\Desktop\ComputerWishlist 1\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrice\OneDrive\Desktop\ComputerWishlist 1\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.AssemblyInfoInputs.cache
+C:\Users\hrice\OneDrive\Desktop\ComputerWishlist 1\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.AssemblyInfo.cs
+C:\Users\hrice\OneDrive\Desktop\ComputerWishlist 1\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.csproj.CoreCompileInputs.cache
+C:\Users\hrice\OneDrive\Desktop\ComputerWishlist 1\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.csproj.CopyComplete
+C:\Users\hrice\OneDrive\Desktop\ComputerWishlist 1\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.dll
+C:\Users\hrice\OneDrive\Desktop\ComputerWishlist 1\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\refint\CumputerWishlist.Data.dll
+C:\Users\hrice\OneDrive\Desktop\ComputerWishlist 1\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.pdb
+C:\Users\hrice\OneDrive\Desktop\ComputerWishlist 1\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\CumputerWishlist.Data.genruntimeconfig.cache
+C:\Users\hrice\OneDrive\Desktop\ComputerWishlist 1\ComputerWishlist\CumputerWishlist.Data\obj\Debug\net8.0\ref\CumputerWishlist.Data.dll

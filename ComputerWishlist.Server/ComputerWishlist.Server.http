@@ -1,0 +1,27 @@
+@ComputerWishlist.Server_HostAddress = http://localhost:5008
+
+POST {{ComputerWishlist.Server_HostAddress}}/computerspec/getsystemcomputerspecs/
+Accept: application/json
+
+POST {{ComputerWishlist.Server_HostAddress}}/computerspec/getusercomputerspecs/
+Accept: application/json
+
+POST {{ComputerWishlist.Server_HostAddress}}/user/createuser/
+Accept: application/json
+
+POST {{ComputerWishlist.Server_HostAddress}}/componenttype/getcomponenttypes/
+Accept: application/json
+
+POST {{ComputerWishlist.Server_HostAddress}}/componenttype/savecomponenttype/
+Accept: application/json
+
+POST {{ComputerWishlist.Server_HostAddress}}/componenttype/deletecomponenttype/
+Accept: application/json
+
+POST {{ComputerWishlist.Server_HostAddress}}/computerspec/savecomputerspec/
+Accept: application/json
+
+POST {{ComputerWishlist.Server_HostAddress}}/computerspec/deletecomputerspec/
+Accept: application/json
+
+###
