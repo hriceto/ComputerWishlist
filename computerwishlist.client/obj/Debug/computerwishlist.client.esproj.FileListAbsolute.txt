@@ -1,3 +1,0 @@
-C:\Users\hrice\source\repos\ComputerWishlist\computerwishlist.client\obj\Debug\computerwishlist.client.esproj.CoreCompileInputs.cache
-C:\Users\hristo.evtimov\Desktop\ComputerWishlist\computerwishlist.client\obj\Debug\computerwishlist.client.esproj.CoreCompileInputs.cache
-C:\Users\hrice\OneDrive\Desktop\ComputerWishlist 1\ComputerWishlist\computerwishlist.client\obj\Debug\computerwishlist.client.esproj.CoreCompileInputs.cache
